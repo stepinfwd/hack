@@ -1,0 +1,33 @@
+.form-container {
+  width: 70vw;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  min-height: 40vw;
+  height: auto;
+  margin: 20px auto;
+  text-align: left;
+}
+/* .form-left {
+  width: 45vw;
+  background-color: aqua;
+  height: auto;
+  min-height: 40vw;
+} */
+.form-body {
+  text-align: left;
+}
+.form-header {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+#filled-basic {
+  width: 40vw;
+  padding-top: 20px;
+}
+.form-container-inner {
+  margin-left: 20px;
+}
